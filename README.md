@@ -175,8 +175,7 @@ flutter run
 
 ## 🎥 Demo
 
-[▶️ Watch Demo on YouTube](#)
-<!-- Replace # with your actual YouTube link -->
+[▶️ Watch Demo on YouTube](https://youtu.be/hNx_yQI-1II?si=Ptz2H0F261tv6i_h)
 
 ---
 
