@@ -166,7 +166,25 @@ cd task_manager_app
 flutter pub get
 ```
 
-### 3 Run the App
+### 3 Configure Back4App Keys 🔑
+
+- Go to your Back4App dashboard
+- Open your app → App Settings → Security & Keys
+- Copy the following:
+  - Application ID
+  - Client Key
+  - Server URL
+- Update these values in your Flutter project (lib/main.dart):
+```dart
+  Parse().initialize(
+    'YOUR_APPLICATION_ID',
+    'YOUR_SERVER_URL',
+    clientKey: 'YOUR_CLIENT_KEY',
+    autoSendSessionId: true,
+  );
+```
+
+### 4 Run the App
 ```bash
 flutter run
 ```
