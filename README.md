@@ -195,6 +195,8 @@ flutter run
 
 [▶️ Watch Demo on YouTube](https://youtu.be/hNx_yQI-1II?si=Ptz2H0F261tv6i_h)
 
+[▶️ Demo Video link (YouTube taken down the video due to PII so uploaded in Google Drive)](https://drive.google.com/file/d/1xo653rP6_90zJD64fPH9IcnveCltF6Zv/view?usp=sharing)
+
 ---
 
 ## 🔗 GitHub Repository
